@@ -22,7 +22,7 @@ namespace MonoIMG
                 Console.WriteLine("|\t---MONO IMG---\t\t|");
                 Console.WriteLine("|-------------------------------|");
                 Console.WriteLine("|\ta) Iniciar\t\t|");
-                Console.WriteLine("|\td) Salir\t\t|");
+                Console.WriteLine("|\tb) Salir\t\t|");
                 Console.WriteLine(" -------------------------------");
                 Console.WriteLine("\nÚltimo rchivo: " + (String.IsNullOrEmpty(archivo) ? "Ninguno" : archivo));
 
